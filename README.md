@@ -23,8 +23,8 @@ Prabhjot Singh: 40220601, Email ID: prabhjtosingh@gmail.com
 
 ## Pratik Gondaliya
 
-Create Github Repository 
-Worked on Problem 1 
+- Create Github Repository 
+- Worked on Problem 1 
   - Purpose of OPENARCH [Moodle]
   - Characteristics of Moodle
   - Salient Software Activities Carried Out in the development of Moodle.
