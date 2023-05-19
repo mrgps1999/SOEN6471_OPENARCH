@@ -46,7 +46,7 @@ Worked on Problem 2
     - Course Content
     - Activities
     - Mobile Access
-  - Prepared Roles and Responsibilities for OPENARCH
+  - Roles and Responsibilities for OPENARCH
 
 
 ## Bala Sharanya Devarapu
@@ -64,7 +64,7 @@ Worked on Problem 2
 Worked on Problem 3
   - Stackholder model of Moodle.
     - UML Class Diagram
-  - Prepared Documentation.
+  - Documentation.
 
 
 
