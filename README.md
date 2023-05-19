@@ -23,17 +23,49 @@ Prabhjot Singh: 40220601, Email ID: prabhjtosingh@gmail.com
 
 ## Pratik Gondaliya
 
+Create Github Repository 
+Worked on Problem 1 
+  - Purpose of OPENARCH [Moodle]
+  - Characteristics of Moodle
+  - Salient Software Activities Carried Out in the development of Moodle.
+
 
 ## Ankur Das
 
-
+Worked on Problem 3
+   - Stackholder model of Moodle.
+     - UML Class Diagram
+   - References
+   
 ## Nihar Sheth
+
+Worked on Problem 2
+  - Context of use for Moodle
+    - Users
+    - Courses
+    - Course Content
+    - Activities
+    - Mobile Access
+  - Prepared Roles and Responsibilities for OPENARCH
 
 
 ## Bala Sharanya Devarapu
 
-
+Worked on Problem 2
+ - Context of use for Moodle
+   - Grading and Assessment
+   - Communication and Collaboration
+   - Administrative Tools
+   - Integration and Extensibility
+ 
+  
 ## Prabhjot Singh
+
+Worked on Problem 3
+  - Stackholder model of Moodle.
+    - UML Class Diagram
+  - Prepared Documentation.
+
 
 
 
