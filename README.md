@@ -13,9 +13,9 @@ Ankur Das: 40160001, Email ID: ankurdas8017@gmail.com
 
 Nihar Sheth: 40198433, Email ID: niharsheth24@gmail.com
 
-Bala Sharanya Devarapu: , Email ID: sharanyadevarapu@gmail.com
+Bala Sharanya Devarapu: 40196511, Email ID: sharanyadevarapu@gmail.com
 
-Prabhjot Singh: , Email ID: prabhjtosingh@gmail.com
+Prabhjot Singh: 40220601, Email ID: prabhjtosingh@gmail.com
 
 # Roles and Responsibilities:
 
