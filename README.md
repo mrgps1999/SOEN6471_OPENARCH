@@ -5,6 +5,9 @@
 This project is about understanding, analyzing, and communicating the architecture of an open source software system documented at The Architecture of Open Source
 Applications (http://aosabook.org/). 
 
+The purpose of Moodle, also known as "OPENARCH" in this context, is to facilitate the delivery of online education and training. It provides a wide range of features and functions that let teachers design and run courses, engage with students, control evaluations, and promote group learning.
+
+
 # Team members:
 
 Pratik Gondaliya: 40194062, Email ID: pratikgondaliya7473@gmail.com
