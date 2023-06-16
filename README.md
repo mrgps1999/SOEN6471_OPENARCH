@@ -111,7 +111,7 @@ Worked on Problem 6 & Problem 7
   - Contribution in preparing Report.
 
 
-NOTE: There is equal contributions of all the members within the team in every PROBLEM.
+NOTE: There is equal contributions of all the members within the team in every PROBLEMs.
 
 
 
