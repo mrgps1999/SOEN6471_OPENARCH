@@ -69,6 +69,53 @@ Worked on Problem 3
     - UML Class Diagram
   - Documentation.
 
+## Deliverable 2
+
+## Pratik Gondaliya
+
+- Worked on Problem 4 & Problem 6 
+  -  Definition of quality attributes.
+  -  list of patterns, principles, styles, and/or tactics of software architecture used by Moodle.
+  -  list of ‘undesirables'.
+  -  Contribution in preparing Report.
+
+
+## Ankur Das
+
+Worked on Problem 5 & Problem 7
+   -  UML diagram types that are based on the use principles and/or practices of Agile Modeling.
+   -  Reasoned-based suggestions for improving the software architecture of Moodle.
+   -  Contribution in preparing Report. 
+   
+## Nihar Sheth
+
+Worked on Problem 5 & Problem 6
+  - Three orthogonal views of Moodle, and describe each view.
+  - Use of Architectural Knowledge for undesirables(anti-patterns and smells).
+  - Contribution in preparing Report.
+
+
+## Bala Sharanya Devarapu
+
+Worked on Problem 4 & Problem 5
+  - list of quality attributes that Moodle aims to satisfy.
+  - Worked on Description of three orthogonal views of Moodle.
+  - Contribution in preparing Report.
+ 
+  
+## Prabhjot Singh
+
+Worked on Problem 6 & Problem 7
+  - Use of Architectural Knowledge for patterns, principles and/or tactics.
+  - Question Framework for Architectural Description Quality Evaluation.
+  - Contribution in preparing Report.
+
+
+NOTE: There is equal contributions of all the members within the team in every PROBLEM.
+
+
+
+
 
 
 
